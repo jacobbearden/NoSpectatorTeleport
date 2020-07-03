@@ -6,7 +6,7 @@
 
     <groupId>com.aefonix.nospectatorteleport</groupId>
     <artifactId>NoSpectatorTeleport</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <name>NoSpectatorTeleport</name>
     <url>https://github.com/jacobbearden/NoSpectatorTeleport</url>
     <description>Plugin to disable spectator mode teleporting in Minecraft.</description>
